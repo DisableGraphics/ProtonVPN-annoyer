@@ -1,2 +1,11 @@
 # ProtonVPN-annoyer
-A little utility for when ProtonVPN doesn't let you connect
+A little utility for when ProtonVPN doesn't let you connect. This program constantly tries to connect to ProtonVPN and doesn't stop until it does.
+
+# Dependencies
+None. Just a C++ compiler
+
+# Building
+run ```make```
+
+# Running
+Just execute `./annoyer`
