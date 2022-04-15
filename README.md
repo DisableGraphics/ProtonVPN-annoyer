@@ -9,3 +9,6 @@ run ```make```
 
 # Running
 Just execute `./annoyer`
+
+# Notes
+Following a kernel update, connecting to ProtonVPN is impossible. Please reboot your computer before trying.
